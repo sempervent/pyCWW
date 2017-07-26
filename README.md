@@ -1,1 +1,1 @@
-# pyCWW
+# pyCWWThis project was created with the help of Caroline Rempe, Joe Hughes, and Joshua N. Grant at the University of Tennessee at Knoxville.## InstallationUse git to clone the software into the desired directory using `git clone https://github.com/sempervent/pyCWW`. Once extracted for the GUI version, run `python wxgui3_1.py`.
